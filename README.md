@@ -1,1 +1,2 @@
 # MySecondRepo
+SomE informations!
